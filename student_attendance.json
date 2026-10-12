@@ -1,0 +1,59 @@
+{
+  "students": [
+    {
+      "roll_no": "101",
+      "name": "Alice Smith",
+      "attendance": {
+        "2026-10-05": "Present",
+        "2026-10-06": "Present",
+        "2026-10-07": "Absent",
+        "2026-10-08": "Present",
+        "2026-10-09": "Present"
+      }
+    },
+    {
+      "roll_no": "102",
+      "name": "Bob Jones",
+      "attendance": {
+        "2026-10-05": "Absent",
+        "2026-10-06": "Present",
+        "2026-10-07": "Present",
+        "2026-10-08": "Absent",
+        "2026-10-09": "Present"
+      }
+    },
+    {
+      "roll_no": "103",
+      "name": "Charlie Brown",
+      "attendance": {
+        "2026-10-05": "Present",
+        "2026-10-06": "Absent",
+        "2026-10-07": "Present",
+        "2026-10-08": "Present",
+        "2026-10-09": "Absent"
+      }
+    },
+    {
+      "roll_no": "104",
+      "name": "Diana Prince",
+      "attendance": {
+        "2026-10-05": "Present",
+        "2026-10-06": "Present",
+        "2026-10-07": "Present",
+        "2026-10-08": "Present",
+        "2026-10-09": "Present"
+      }
+    },
+    {
+      "roll_no": "105",
+      "name": "Ethan Hunt",
+      "attendance": {
+        "2026-10-05": "Absent",
+        "2026-10-06": "Absent",
+        "2026-10-07": "Present",
+        "2026-10-08": "Absent",
+        "2026-10-09": "Present"
+      }
+    }
+  ]
+}
